@@ -58,7 +58,7 @@ Teaching AND Learning Matter
 
 - Giving Teaching Back to Education: Responding to the Disappearance of the Teacher (Biesta)
 
-    https://journals.library.ualberta.ca/pandpr/index.php/pandpr/article/viewFile/19860/15386
+  - https://journals.library.ualberta.ca/pandpr/index.php/pandpr/article/viewFile/19860/15386
 
 
 
@@ -68,7 +68,7 @@ Teaching AND Learning Matter
 
 - If your syllabus could talk…
 
-    https://www.chronicle.com/article/If-Your-Syllabus-Could-Talk/46604?cid=rclink
+  - https://www.chronicle.com/article/If-Your-Syllabus-Could-Talk/46604?cid=rclink
 
 - Quick write/sketch and share
 
@@ -86,16 +86,16 @@ Teaching AND Learning Matter
 
 - Learning and Assessment Taxonomies
 
-- Fink
+  -  Fink
 
-- Bloom
+  -  Bloom
 
-- SOLO
+  -  SOLO
 
 
 - High Impact Pedagogy
 
-- Renewable/Legacy Assignments
+  -  Renewable/Legacy Assignments
 
 
 
@@ -136,60 +136,60 @@ What is made possible? You can help people gain insight on issues they face and 
 Five Structural Elements – Min Specs
 1. Structuring Invitation
 
-    Invite the group to explore the questions “What is your challenge?” and “What kind of help do you need?”
+  - Invite the group to explore the questions “What is your challenge?” and “What kind of help do you need?”
 
 2. How Space Is Arranged and Materials Needed
 
-    Any number of small groups of 3 chairs, knee-to-knee seating preferred. No table!
+  - Any number of small groups of 3 chairs, knee-to-knee seating preferred. No table!
 
 3. How Participation Is Distributed
 
-    In each round, one participant is the “client,” the others “consultants”
+  - In each round, one participant is the “client,” the others “consultants”
 
-    Everyone has an equal opportunity to receive and give coaching
+  - Everyone has an equal opportunity to receive and give coaching
 
 4. How Groups Are Configured
 
-    Groups of 3
+  - Groups of 3
 
-    People with diverse backgrounds and perspectives are most helpful
+  - People with diverse backgrounds and perspectives are most helpful
 
 5. Sequence of Steps and Time Allocation
 
-    Invite participants to reflect on the consulting question (the challenge and the help needed) they plan to ask when they are the clients. 1 min.
+  - Invite participants to reflect on the consulting question (the challenge and the help needed) they plan to ask when they are the clients. 1 min.
 
-    Groups have first client share his or her question. 1-2 min.
+  - Groups have first client share his or her question. 1-2 min.
 
-    Consultants ask the client clarifying questions. 1-2 min.
+  - Consultants ask the client clarifying questions. 1-2 min.
 
-    Client turns around with his or her back facing the consultants
+  - Client turns around with his or her back facing the consultants
 
-    Together, the consultants generate ideas, suggestions, coaching advice. 4-5 min.
+  - Together, the consultants generate ideas, suggestions, coaching advice. 4-5 min.
 
-    Client turns around and shares what was most valuable about the experience. 1-2 min.
+  - Client turns around and shares what was most valuable about the experience. 1-2 min.
 
-    Groups switch to next person and repeat steps.
+  - Groups switch to next person and repeat steps.
 
 
 
-Resources and Links
+## Resources and Links
 ...feel free to add your own!
 
 #### Inclusion
 
 Inclusion by Design
 
-    https://drive.google.com/file/d/0B0ulz5eHbyjYdmY0eF9ablRRcHM/view
+- https://drive.google.com/file/d/0B0ulz5eHbyjYdmY0eF9ablRRcHM/view
 
 
 Inclusive Design Handbook
 
-    https://handbook.floeproject.org/index.html
+- https://handbook.floeproject.org/index.html
 
 
 BCcampus Accessibility Toolkit
 
-    https://opentextbc.ca/accessibilitytoolkit/
+- https://opentextbc.ca/accessibilitytoolkit/
 
 
 
@@ -197,49 +197,49 @@ BCcampus Accessibility Toolkit
 
 CarletonU Certificate in Blended and Online Learning
 
-    https://carleton.ca/cuopen/certificate-in-blended-and-online-teaching/
+- https://carleton.ca/cuopen/certificate-in-blended-and-online-teaching/
 
 
 Designing Learning
 
-    http://www.designinglearning.ca/
+- http://www.designinglearning.ca/
 
 
 Critical Digital Pedagogy
 
-    http://teachinginhighered.com/podcast/what-the-best-digital-teachers-do/
+- http://teachinginhighered.com/podcast/what-the-best-digital-teachers-do/
 
 
 Facilitating Learning Online (FLO)
 
-    https://proflearn.bccampus.ca/workshops/flo/
+- https://proflearn.bccampus.ca/workshops/flo/
 
 
 #### Learning Outcomes
 
 Revised Blooms with levels of knowledge and cognitive procedures  
 
-    http://www.celt.iastate.edu/wp-content/uploads/2015/09/RevisedBloomsHandout-1.pdf
+- http://www.celt.iastate.edu/wp-content/uploads/2015/09/RevisedBloomsHandout-1.pdf
 
 
 Blooms taxonomy Learning in Action 
 
-    https://commons.wikimedia.org/w/index.php?curid=4000460
+- https://commons.wikimedia.org/w/index.php?curid=4000460
 
 
 ABL Connect  
 
-    https://ablconnect.harvard.edu/
+- https://ablconnect.harvard.edu/
 
 
 Queen’s Learning Outcomes Project  
 
-    http://www.queensu.ca/qloa/assessment-tools/value-rubrics-0
+- http://www.queensu.ca/qloa/assessment-tools/value-rubrics-0
 
 
 Benjamin Moore 
 
-    https://www.ispot.tv/ad/wPKc/benjamin-moore-proudly-particular
+- https://www.ispot.tv/ad/wPKc/benjamin-moore-proudly-particular
 
 
 
@@ -247,12 +247,12 @@ Benjamin Moore
 
 Teaching Naked Techniques
 
-    http://teachinginhighered.com/podcast/teaching-naked-techniques-2/
+- http://teachinginhighered.com/podcast/teaching-naked-techniques-2/
 
 
 Self-regulated learning and the flipped classroom
 
-    http://teachinginhighered.com/podcast/self-regulated-learning-flipped-classroom/
+- http://teachinginhighered.com/podcast/self-regulated-learning-flipped-classroom/
 
 
 
@@ -260,22 +260,22 @@ Self-regulated learning and the flipped classroom
 
 Videos on the Clothesline Metaphor 
 
-    https://www.youtube.com/watch?v=wm9G1ofQA84
+- https://www.youtube.com/watch?v=wm9G1ofQA84
 
 
 Classroom Assessment Techniques  
 
-    http://www.celt.iastate.edu/teaching/assessment-and-evaluation/classroom-assessment-techniques-quick-strategies-to-check-student-learning-in-class
+- http://www.celt.iastate.edu/teaching/assessment-and-evaluation/classroom-assessment-techniques-quick-strategies-to-check-student-learning-in-class
 
 
 Facilitating learning with technology 
 
-    http://www.celt.iastate.edu/teaching/facilitating-learning-with-technology
+- http://www.celt.iastate.edu/teaching/facilitating-learning-with-technology
 
 
 Community of Inquiry Model 
 
-    https://coi.athabascau.ca/coi-model/
+- https://coi.athabascau.ca/coi-model/
 
 
 http://merelearning.ca
