@@ -10,53 +10,53 @@ We've added headings below that correspond to the agenda.
 
 ## Welcome and Introductions
 
-    Bless the Space Between Us
+- Bless the Space Between Us
 
-    Movie Poster Connect
+- Movie Poster Connect
 
-    Whiteboard Splash
+- Whiteboard Splash
 
-    Clothesline Method (Stephen Pressfield)
+- Clothesline Method (Stephen Pressfield)
 
-    https://stevenpressfield.com/2015/01/the-clothesline-method/
+  - https://stevenpressfield.com/2015/01/the-clothesline-method/
 
-    Doug Neill
+- Doug Neill
 
-    http://www.verbaltovisual.com/
+  - http://www.verbaltovisual.com/
 
-    https://www.youtube.com/watch?v=HmT1Rkb57rs
+  - https://www.youtube.com/watch?v=HmT1Rkb57rs
 
 
 ## Orienting the Work
 
 The Syllabus as Scholarship
 
-    Using the Syllabus to Document the Scholarship of Teaching (Albers)
+- Using the Syllabus to Document the Scholarship of Teaching (Albers)
 
-    https://www.jstor.org/stable/3211425?seq=1#page_scan_tab_contents
+  - https://www.jstor.org/stable/3211425?seq=1#page_scan_tab_contents
 
-    The graphic syllabus and the outcomes map: Communicating your course
+- The graphic syllabus and the outcomes map: Communicating your course
 
-    http://eds.a.ebscohost.com/eds/detail/detail?vid=1&sid=e3a116c4-7ae8-4119-996f-aeb8b49c3203%40sessionmgr4009&bdata=JnNpdGU9ZWRzLWxpdmU%3d#
+  - http://eds.a.ebscohost.com/eds/detail/detail?vid=1&sid=e3a116c4-7ae8-4119-996f-aeb8b49c3203%40sessionmgr4009&bdata=JnNpdGU9ZWRzLWxpdmU%3d#
 
 
 What we Know about Students and Syllabi
 
-    Is Anybody Reading the Syllabus? To Find Out, Some Professors Bury Hidden Gems  (Zamudio-Suarez)
+- Is Anybody Reading the Syllabus? To Find Out, Some Professors Bury Hidden Gems  (Zamudio-Suarez)
 
-    https://www.chronicle.com/article/Is-Anybody-Reading-the/237641
+  - https://www.chronicle.com/article/Is-Anybody-Reading-the/237641
 
 
 Key Course Design Framework
 
-    Understanding by Design/Backwards Design
+- Understanding by Design/Backwards Design
 
-    https://en.wikiversity.org/wiki/Instructional_design/Backward_Design/Description
+  - https://en.wikiversity.org/wiki/Instructional_design/Backward_Design/Description
 
 
 Teaching AND Learning Matter
 
-    Giving Teaching Back to Education: Responding to the Disappearance of the Teacher (Biesta)
+- Giving Teaching Back to Education: Responding to the Disappearance of the Teacher (Biesta)
 
     https://journals.library.ualberta.ca/pandpr/index.php/pandpr/article/viewFile/19860/15386
 
@@ -66,17 +66,17 @@ Teaching AND Learning Matter
 
 ## Teaching Matters
 
-    If your syllabus could talk…
+- If your syllabus could talk…
 
     https://www.chronicle.com/article/If-Your-Syllabus-Could-Talk/46604?cid=rclink
 
-    Quick write/sketch and share
+- Quick write/sketch and share
 
-    Facets of Understanding
+- Facets of Understanding
 
-    Enduring understandings
+- Enduring understandings
 
-    Whole group: Timed sharing of course visions/feedback
+- Whole group: Timed sharing of course visions/feedback
 
 
 
@@ -84,18 +84,18 @@ Teaching AND Learning Matter
 
 ## Learning Matters:  Developing Meaningful Learning Outcomes and Culminating Assessment Strategies
 
-Learning and Assessment Taxonomies
+- Learning and Assessment Taxonomies
 
-    Fink
+- Fink
 
-    Bloom
+- Bloom
 
-    SOLO
+- SOLO
 
 
-High Impact Pedagogy
+- High Impact Pedagogy
 
-    Renewable/Legacy Assignments
+- Renewable/Legacy Assignments
 
 
 
@@ -104,23 +104,23 @@ High Impact Pedagogy
 
 Quick Introduction of Inquiry Tools and Personal Application
 
-    Timelines and a Graphic Syllabus - Kim
+- Timelines and a Graphic Syllabus - Kim
 
-    Inclusivity - Jenn
+- Inclusivity - Jenn
 
-    Spiritual Formation/Wellness - Kim
+- Spiritual Formation/Wellness - Kim
 
-    Indigeneity - Kim
+- Indigeneity - Kim
 
-    Open Education Resources - Colin
+- Open Education Resources - Colin
 
-    Other Resources – Kelly
+- Other Resources – Kelly
 
-    Technology – Kelly
+- Technology – Kelly
 
-    Information Literacy – Bill Badke
+- Information Literacy – Bill Badke
 
-    Library Resources – Qinqin Zhang & Bill Badke
+- Library Resources – Qinqin Zhang & Bill Badke
 
 
 
