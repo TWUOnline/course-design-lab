@@ -136,39 +136,39 @@ What is made possible? You can help people gain insight on issues they face and 
 Five Structural Elements – Min Specs
 1. Structuring Invitation
 
-  - Invite the group to explore the questions “What is your challenge?” and “What kind of help do you need?”
+   - Invite the group to explore the questions “What is your challenge?” and “What kind of help do you need?”
 
 2. How Space Is Arranged and Materials Needed
 
-  - Any number of small groups of 3 chairs, knee-to-knee seating preferred. No table!
+   - Any number of small groups of 3 chairs, knee-to-knee seating preferred. No table!
 
 3. How Participation Is Distributed
 
-  - In each round, one participant is the “client,” the others “consultants”
+   - In each round, one participant is the “client,” the others “consultants”
 
-  - Everyone has an equal opportunity to receive and give coaching
+   - Everyone has an equal opportunity to receive and give coaching
 
 4. How Groups Are Configured
 
-  - Groups of 3
+   - Groups of 3
 
-  - People with diverse backgrounds and perspectives are most helpful
+   - People with diverse backgrounds and perspectives are most helpful
 
 5. Sequence of Steps and Time Allocation
 
-  - Invite participants to reflect on the consulting question (the challenge and the help needed) they plan to ask when they are the clients. 1 min.
+   - Invite participants to reflect on the consulting question (the challenge and the help needed) they plan to ask when they are the clients. 1 min.
 
-  - Groups have first client share his or her question. 1-2 min.
+   - Groups have first client share his or her question. 1-2 min.
 
-  - Consultants ask the client clarifying questions. 1-2 min.
+   - Consultants ask the client clarifying questions. 1-2 min.
 
-  - Client turns around with his or her back facing the consultants
+   - Client turns around with his or her back facing the consultants
 
-  - Together, the consultants generate ideas, suggestions, coaching advice. 4-5 min.
+   - Together, the consultants generate ideas, suggestions, coaching advice. 4-5 min.
 
-  - Client turns around and shares what was most valuable about the experience. 1-2 min.
+   - Client turns around and shares what was most valuable about the experience. 1-2 min.
 
-  - Groups switch to next person and repeat steps.
+   - Groups switch to next person and repeat steps.
 
 
 
