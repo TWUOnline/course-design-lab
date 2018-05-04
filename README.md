@@ -1,4 +1,4 @@
-## Course Design Lab
+# Course Design Lab
 
 ### Collaborative Notes and Resources
 
@@ -8,7 +8,7 @@ This is intended to be a living document, throughout the day, please use this sp
 
 We've added headings below that correspond to the agenda.
 
-## Welcome and Introductions
+# Welcome and Introductions
 
 - Bless the Space Between Us
 
@@ -27,7 +27,7 @@ We've added headings below that correspond to the agenda.
   - https://www.youtube.com/watch?v=HmT1Rkb57rs
 
 
-## Orienting the Work
+# Orienting the Work
 
 The Syllabus as Scholarship
 
