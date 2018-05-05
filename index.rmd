@@ -9,7 +9,7 @@ output:
 ---
 ### Collaborative Notes and Resources
 
-Welcome to Etherpad, the privacy-friendly alternative to Google Docs!
+Welcome to GitHub, another alternative to Google Docs!
 
 This is intended to be a living document, throughout the day, please use this space to record your thoughts, questions, resources, ideas, and Aha! moments.
 
