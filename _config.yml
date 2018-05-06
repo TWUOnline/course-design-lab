@@ -1,5 +1,6 @@
 theme: jekyll-theme-cayman
 name: intern
+markdown: kramdown
 navbar:
   title: CDL
   left:
