@@ -3,26 +3,10 @@ name: intern
 navbar:
   title: CDL
   left:
-  - text: Fundamentals
+  - text: Resources
     menu:
     - text: Getting started
-      href: starting.html
-    - text: Core concepts
-      href: concepts.html
-    - text: R data types
-      href: data.html
-  - text: Applications
-    menu:
-    - text: Drawing graphs
-      href: graphs.html
-    - text: Probability distributions
-      href: distributions.html      
-    - text: Intro stats
-      href: introstats.html
-    - text: Shiny apps
-      href: shiny.html
-    - text: Miscellaneous
-      href: misc.html
+      href: index.rmd
 output_dir: _site
 output:
   html_document:
