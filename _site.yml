@@ -7,7 +7,7 @@ navbar:
   - text: Resources
     menu:
     - text: Getting started
-      href: index.rmd
+      href: index.html
 output_dir: _site
 output:
   html_document:
