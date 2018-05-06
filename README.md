@@ -1,3 +1,12 @@
+---
+title: "Course Design Lab"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    theme: cayman
+    highlight: textmate
+---
 # Course Design Lab
 
 ### Collaborative Notes and Resources
